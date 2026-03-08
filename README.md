@@ -25,5 +25,5 @@ Selected from thousands of applicants to compete in the nationally televised 201
 
 
 ## 📰 Press & Media Coverage
-*   **Official Feature:** [Sky Arts Portrait Artist of the Year - Series 5, Heat 2](https://artistoftheyear.co.uk/contest/portrait-artist-of-the-year-2019/)
+*   **Official Feature:** [Sky Arts Portrait Artist of the Year - Series 5, Heat 2](https://artistoftheyear.co.uk/artist/boris-takam/)
 *   **Feature Article:** [Artist Boris paints celebrities’ portraits in top TV contest](https://www.eadt.co.uk/things-to-do/21444547.artist-boris-paints-celebrities-portraits-top-tv-contest/?ref=cprfa)
