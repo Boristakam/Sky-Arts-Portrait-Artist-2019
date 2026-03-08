@@ -2,7 +2,7 @@
 Selected from thousands of applicants to compete in the nationally televised 2019 series of Sky Arts Portrait Artist of the Year.
 
 <p align="center">
-  <img src="media/paoty-final-painting.jpg" width="500" alt="Oil Portrait of Ashley Walters">
+  <img src="media/paoty-final-painting.jpg" width="510" alt="Oil Portrait of Ashley Walters">
   <br>
   <i>Oil on Canvas - Competed on Sky Arts Portrait Artist of the Year (2019)</i>
 </p>
@@ -11,6 +11,10 @@ Selected from thousands of applicants to compete in the nationally televised 201
 
 <p align="center">
   <img src="media/paoty-set.jpg" width="500" alt="Oil Portrait of Ashley Walters">
+</p>
+
+<p align="center">
+  <img src="media/paoty-set2.jpg" width="500" alt="Oil Portrait of Ashley Walters">
   <br>
   <i>Painting on set</i>
 </p>
