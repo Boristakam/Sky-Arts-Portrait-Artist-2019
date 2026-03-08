@@ -12,7 +12,7 @@ Selected from thousands of applicants to compete in the nationally televised 201
 <p align="center">
   <img src="media/paoty-set.jpg" width="500" alt="Oil Portrait of Ashley Walters">
   <br>
-  <i>Painting on set - with live audience</i>
+  <i>Painting on set</i>
 </p>
 
 **Key Skills:**  Demonstrated extreme focus, rapid anatomical observation, and the ability to execute complex technical work under intense media scrutiny and time constraints.
